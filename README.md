@@ -1,14 +1,14 @@
-## Bio
+## ✅ Bio
 - *Majored in Electrical Engineering.*
 - *Crypto Futures Trading got me into programming.*<br><br>
 
-## Interest
+## ✅ Interest
 - *Trading*
 - *Amateur Radio*
 - *Coffee*
 - *Music*<br><br>
 
-## Link
+## ✅ Link
 - *[QRZ.com](https://www.qrz.com/db/ds4rxh)*
 - *[Market Trading Hours](https://t.me/markettradinghours)*<br><br>
 
