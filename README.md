@@ -5,6 +5,7 @@
 ## ✅ Interest
 - *Trading*
 - *Amateur Radio*
+- *Photography*
 - *Coffee*
 - *Music*<br><br>
 
