@@ -1,7 +1,8 @@
 ## ✅ Bio
 - Majored in Electrical Engineering.
 - Crypto Futures Trading got me into programming.
-- 13th Samsung Software Academy For Youth(SSAFY)<br><br>
+- Internship, 12th Samsung Software Academy For Youth(SSAFY)
+- 13th Samsung Software Academy For Youth<br><br>
 
 ## ✅ Interest
 - Infrastructure & DevOps
