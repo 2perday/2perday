@@ -3,6 +3,7 @@
 - Started programming through cryptocurrency futures trading
 - 12th Samsung Software Academy For Youth(SSAFY) - Internship
 - 13th Samsung Software Academy For Youth(SSAFY)
+- Present - IDC Operator, NHN Enterprise
 
 ## ✅ Homelab
 - Proxmox 3-node HA cluster with Ceph storage (Dell Optiplex 3050 x3)
