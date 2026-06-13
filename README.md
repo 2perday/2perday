@@ -1,14 +1,12 @@
-## ✅ About Me
-- B.S. in Electrical Engineering
-- Started programming through cryptocurrency futures trading
-- 12th Samsung Software Academy For Youth(SSAFY) - Internship
-- 13th Samsung Software Academy For Youth(SSAFY)
-- Present - Data Center Operator, NHN Enterprise
+## ✅ What I Do
+Data Center Operator @ NHN Enterprise
+Building homelab infrastructure for real-use and learning
 
-## ✅ Interests
-- Infrastructure, DevOps
-- Trading
-- Amateur Radio
-- Photography
-- Coffee
-- Music Production
+## ✅ Background
+- B.S. Electrical Engineering
+- Started coding through trading on crypto futures
+- 13th Samsung Software Academy For Youth
+
+## 🔍 Interests
+Infrastructure · Networking · Systems Engineering · DevOps
+Photography · Amateur Radio · Trading · Coffee
