@@ -8,5 +8,5 @@ Building homelab infrastructure for real-use and learning
 - 13th Samsung Software Academy For Youth
 
 ## 🔍 Interests
-Infrastructure · Networking · Systems Engineering · DevOps
+Infrastructure · Networking · Systems Engineering · DevOps<br>
 Photography · Amateur Radio · Trading · Coffee
