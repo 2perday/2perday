@@ -1,6 +1,6 @@
 ## ✅ What I Do
-Data Center Operator @ NHN Enterprise
-Building homelab infrastructure for real-use and learning
+- Data Center Operator @ NHN Enterprise
+- Building homelab infrastructure for real-use and learning
 
 ## ✅ Background
 - B.S. Electrical Engineering
