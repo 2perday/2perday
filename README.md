@@ -14,7 +14,12 @@ _/_/_/_/  _/_/_/      _/_/_/  _/          _/_/_/    _/_/_/    _/_/_/  _/    _/_/
 
 <hr>
 
+### *Background*
+*Data Center Operator @ NHN Enterprise*<br>
+<sub>*Samsung Software Academy For Youth, 13th*</sub>
+<hr>
+
 ### *Interests*
 *Linux Systems • Virtualization • HA & K8s Clusters*<br>
-<sub>*Amateur Radio • Photography • Specialty Coffee*</sub>
+<sub>*Amateur Radio • Photography • Music • Specialty Coffee*</sub>
 </div>
